@@ -1,0 +1,2 @@
+rootProject.name = "Consume Git"
+include ':app'
